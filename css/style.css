@@ -1,0 +1,5 @@
+.jumboimage {
+	background-image: url('../images/wood.jpeg');
+	background-position: top;
+	background-size: cover;
+}
